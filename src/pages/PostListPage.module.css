@@ -1,0 +1,11 @@
+.postListContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 20px;
+}
+
+.postListContainer a {
+  color: inherit;
+  text-decoration: none;
+}

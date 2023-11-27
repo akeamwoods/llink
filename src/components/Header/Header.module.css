@@ -1,0 +1,23 @@
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.heading {
+  font-size: 1.8em;
+}
+
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 2em;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .heading {
+    font-size: 2.5em;
+  }
+}

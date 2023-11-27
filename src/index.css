@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  background-color: rgb(251 239 231);
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
